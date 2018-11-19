@@ -2,7 +2,7 @@
 
 Jupyter notebooks are great! They help you execute parts of code and see the output right there. Great method for data exploration and making inferences thereof. Especially useful in machine learning.
 
-Here, I've written hard coded K Nearest Neighbour Algorithm instead of using the sklearn pre defined function. It's much slower but does the job and really helped me learn the why and how this algorithm works.
+Here, I've written K Nearest Neighbour Algorithm in vanilla python instead of using the sklearn pre defined function. It's much slower but does the job and really helped me learn the why and how this algorithm works.
 
 The dataset is of handwritten digits in the form of 28x28 sized images. 
 https://en.wikipedia.org/wiki/MNIST_database
